@@ -22,13 +22,13 @@ Raindrops intercepted by turfgrass leaves that will not make into the soil surfa
 
 ## Results
 
-<img src = "figure_5.jpg" height = 1000 width = 1000>
+<img src = "figure_5.jpg">
 Timeseries depiciting cumulative precipitation and throughfall.
 <br/>
 <br/>
 <br/>
 
-<img src = "figure_6.jpg" height = 1000 width =1000>
+<img src = "figure_6.jpg">
 Interception loss as a function of cumulative precipitation. 
 
 ## References 
